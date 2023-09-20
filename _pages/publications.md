@@ -14,6 +14,7 @@ author_profile: true
 {% endfor %}
 
 **Work in progress** \\
+
 (With [Timo Seidl](https://timoseidl.com)) Herestetics and Illusions of Synergy. The Politics of EU Industrial Policy. *Early stage working paper*.
 
 (With [Timur Ergen](https://tergen.org/)) The Sunshine Problem. Climate Change and the Political Economy of Reallocation. *Under review*. 
