@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Research"
+    url: /research/
+    
+  - title: "Publications"
+    url: /publications/
+
+  #- title: "Teaching"
+  #  url: /teaching/    
+    
+  - title: "CV"
+    url: https://github.com/luukschmitz/my-website/raw/master/CV_LS.pdf
+        
+  - title: "Contact"
+    url: /contact/
