@@ -1,5 +1,12 @@
 ---
 title: "Publications"
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: true
 ---
 
 This is an overview of my academic and non-academic publications, as well as ongoing work.
