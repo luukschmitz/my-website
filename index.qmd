@@ -1,0 +1,30 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "ls.jpg"
+  links:
+    - icon: stop
+      text: Bluesky
+      href: https://bsky.app/profile/luukschmitz.bsky.social
+    - icon: glasses
+      text: Google Scholar
+      href: https://scholar.google.nl/citations?user=oFDW6tIAAAAJ
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/luuk-schmitz-7a373121/
+    - icon: envelope
+      text: Email
+      href: "mailto:luuk.schmitz@mpifg.de"  
+---
+
+::: {#about-block}
+:::
+
+# Luuk Schmitz
+
+I am a senior researcher at the Max Planck Institute for the Study of Societies in Cologne.
+
+I research structural transformations in European political economy, focusing on the political economy of public policy, the role of narratives in (re)politicizing economic policy, and the relation between the two.
+
+You can find more information about my research, publications, and contact info on this website. I occasionally post miscellaneous entries in my blog on more general academic interests.
