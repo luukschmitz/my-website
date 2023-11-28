@@ -1,0 +1,40 @@
+---
+title: "Publications"
+toc: true
+---
+
+This is an overview of my academic and non-academic publications, as well as ongoing work.
+
+## Peer-reviewed articles
+
+(with Timo Seidl): Moving on not to fall behind? Technological sovereignty and the 'geo-dirigiste' turn in EU industrial policy. *Journal of European Public policy*. [Paper](https://www.tandfonline.com/doi/full/10.1080/13501763.2023.2248204) \| [replication materials](https://www.tandfonline.com/doi/suppl/10.1080/13501763.2023.2248204?scroll=top).
+
+(with Donato Di Carlo): Europe First? The rise of EU industrial policy promoting and protecting the single market. *Journal of European Public Policy*. [Paper](https://doi.org/10.1080/13501763.2023.2202684).
+
+(with Timo Seidl). As open as possible, as Autonomous as Necessary: Understanding the Rise of Open Strategic Autonomy in EU Trade Policy. *Journal of Common Market Studies*. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/jcms.13428).
+
+(with Thomas R. Eimer): From Coherence to Coheritization**:** explaining the rise of policy coherence in EU external policy. *Globalizations*. [Paper](https://www.tandfonline.com/doi/full/10.1080/14747731.2019.1676103).
+
+## Working papers
+
+(with Timur Ergen): Climate Change and Managed Decline in the European Union. *MPIfG discussion paper*. (forthcoming).
+
+(with Timo Seidl): Protecting, Transforming, and Projecting the Single Market. Open Strategic Autonomy and Digital Sovereignty in the EU's Trade and Digital Policies. *Preprint*. [Paper](https://doi.org/10.31235/osf.io/wjb64).
+
+## Work in progress
+
+The Politics of Constraints: EU Industrial Policy under Limited State Capacity. *Unpublished manuscript*. With Timo Seidl.
+
+Governing by Exception as a Governance Regime in the European Union. *Unpublished manuscript*.
+
+Changing the Calculus: How Security Came to Rule Economics. *Unpublished manuscript*.
+
+## Media & miscellaneous
+
+Backlash. *De Groene Amsterdammer*. [Interview](https://www.groene.nl/artikel/backlash).
+
+De Europese markt heeft industriepolitiek op Europees niveau nodig. *NRC Handelsblad* (with Jasper H. van Dijk). Opinion piece ([paywalled](https://www.nrc.nl/nieuws/2023/03/12/de-europese-markt-heeft-industriepolitiek-op-europees-niveau-nodig-a4159212)).
+
+As open as Possible, as Autonomous as Necessary -- Understanding the Rise of Open Strategic Autonomy. (with Timo Seidl). *Ideas on Europe Blog* [entry](https://jcms.ideasoneurope.eu/2022/11/03/as-open-as-possible-as-autonomous-as-necessary-understanding-the-rise-of-open-strategic-autonomy/).
+
+Reflections on how COVID-19 is reshaping the EU's industrial strategy. *EUIdeas blog* [entry](https://euideas.eui.eu/2020/06/04/reflections-on-how-covid-19-is-reshaping-the-eus-industrial-strategy/).

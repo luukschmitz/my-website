@@ -1,0 +1,32 @@
+---
+title: Projects
+toc: true
+---
+
+## European industrial policy
+
+![](ip.png)
+
+<a href="https://arxiv.org/abs/2210.07278" target="_blank">Dissertation</a>
+
+Why is industrial policy *en vogue* in the European Union? Given the EU's market-making impetus and limits to subsidizing state aid, the turn to an active and targeted industrial policy in the last years is surprising. My dissertation documents this moment of *After Market Making*. I argue that a declining belief in open markets and economic efficiency as the sole propagators of 'good' economic outcomes has mobilized a coalition of firms, business associations, and trade unions to challenge the EU's market-based governance regime. This is especially visible in digital and high-tech fields and in the green transition, often discussed under the rubric of the 'twin transitions'.
+
+Post-PhD, I will focus on understanding how the demands for state intervention play out on the ground: can market-making institutions be repurposed for state intervention?
+
+------------------------------------------------------------------------
+
+## Governing by Exception
+
+![](sa.png)
+
+<a href="https://arxiv.org/abs/2112.08866" target="_blank">Working paper</a>
+
+The EU's Recovery and Resilience Fund, the flexibility around EU state aid and fiscal rules, as well as domestic industrial policy have one thing in common: they rely on treaty flexibility, exceptions, or outright violations of the treaties. As governing by exception seems to be the only way forward in a highly politicized and institutionally rigid environment, this project is interested in both the drivers and consequences of this emerging regime governing EU economic policy.
+
+------------------------------------------------------------------------
+
+## Changing the Calculus on Economic Security
+
+![](security.jpg)
+
+After several decades of intensifying globalization, the world has entered a new phase of strategic competition centered around geoeconomic motives. Buzzwords such as de-globalization, decoupling, reshoring, and de-risking have started to dominate policy discourse and quarterly earnings reports. The mainstream economic view centered around price signals and factor endowment increasingly struggles to explain the security-based choices forced on firms and markets by policy makers. In the process, long neglected and long derided policy interventions centered around industrial policy, export controls, and large-scale investment in infrastructural projects increasingly find their way into policy toolkits around the world. How has this security-based logic entered into polycymakers' rulebooks? Why is security supplanting efficiency as a calculative logic? And to what extent does this change open more public pathways to scrutinize economic policy? The aim of this project is to find out not only the drivers and coalitions behind the changing economic calculus, but also to see whether this moment repoliticizes economic policy. Depoliticization through international law and the empowerment of expertise-driven and technocratic institutions such as central banks and credit rating agencies were arguably the hallmark of economic policy in the last decades. While the move to bolster economic security is the first genuine challenge to this constellation, it carries its own sources of depoliticization that, once again, remove economic and distributive choices from spheres of public debate and democratic accountability.
